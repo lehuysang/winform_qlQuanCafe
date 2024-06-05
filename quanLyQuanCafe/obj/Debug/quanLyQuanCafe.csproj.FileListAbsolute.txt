@@ -10,3 +10,15 @@ D:\BaiTap\lapTrinhWindowns\quanLyQuanCafe\quanLyQuanCafe\obj\Debug\quanLyQuanCaf
 D:\BaiTap\lapTrinhWindowns\quanLyQuanCafe\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.pdb
 D:\BaiTap\lapTrinhWindowns\quanLyQuanCafe\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.Form2.resources
 D:\BaiTap\lapTrinhWindowns\quanLyQuanCafe\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.XemChiTiet.resources
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.csproj.AssemblyReference.cache
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.Form1.resources
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.Form2.resources
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.Properties.Resources.resources
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.XemChiTiet.resources
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.csproj.GenerateResource.cache
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.exe
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\obj\Debug\quanLyQuanCafe.pdb
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\bin\Debug\quanLyQuanCafe.exe.config
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\bin\Debug\quanLyQuanCafe.exe
+D:\BaiTap\lapTrinhWindowns\quanLyCafe2\quanLyQuanCafe\bin\Debug\quanLyQuanCafe.pdb

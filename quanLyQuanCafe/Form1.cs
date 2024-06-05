@@ -308,6 +308,11 @@ namespace quanLyQuanCafe
             Form2 form2 = new Form2();
             form2.ShowDialog();
         }
+
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
 
