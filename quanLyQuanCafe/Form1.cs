@@ -312,6 +312,7 @@ namespace quanLyQuanCafe
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
+            // test
         }
     }
 }
