@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanlyquancafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|d:\\baitap\\laptrinhwindowns\\quanlyquancafe\\quanlyquancafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|d:\\baitap\\laptrinhwindowns\\quanlyquancafe\\quanlyquancafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanlyquancafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanlyquancafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanlyquancafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6800E8F5-74E2-4FB8-891D-AABC2597DBE1}|quanLyQuanCafe\\quanLyQuanCafe.csproj|D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanlyquancafe\\xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanLyQuanCafe\\Form1.cs",
               "RelativeDocumentMoniker": "quanLyQuanCafe\\Form1.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanLyQuanCafe\\Form2.cs",
               "RelativeDocumentMoniker": "quanLyQuanCafe\\Form2.cs",
@@ -101,8 +101,7 @@
               "RelativeToolTip": "quanLyQuanCafe\\Form2.cs",
               "ViewState": "AQIAAMoAAAAAAAAAAAAQwGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:50:21.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:50:21.12Z"
             },
             {
               "$type": "Document",
@@ -113,12 +112,11 @@
               "ToolTip": "D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanLyQuanCafe\\Form2.cs [Design]",
               "RelativeToolTip": "quanLyQuanCafe\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:49:21.444Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-03T03:49:21.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\BaiTap\\lapTrinhWindowns\\quanLyQuanCafe\\quanLyQuanCafe\\Form1.cs",
               "RelativeDocumentMoniker": "quanLyQuanCafe\\Form1.cs",
@@ -126,8 +124,7 @@
               "RelativeToolTip": "quanLyQuanCafe\\Form1.cs",
               "ViewState": "AQIAAB4BAAAAAAAAAAAuwDMBAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T06:43:32.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T06:43:32.568Z"
             }
           ]
         }
