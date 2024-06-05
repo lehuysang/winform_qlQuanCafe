@@ -313,6 +313,7 @@ namespace quanLyQuanCafe
         {
             Application.Exit();
             // test
+            // haha
         }
     }
 }
